@@ -1,0 +1,6 @@
+@ApiTestMobileAxel_HostAddress = http://localhost:44349
+
+GET {{ApiTestMobileAxel_HostAddress}}/UserService/
+Accept: application/json
+
+###
